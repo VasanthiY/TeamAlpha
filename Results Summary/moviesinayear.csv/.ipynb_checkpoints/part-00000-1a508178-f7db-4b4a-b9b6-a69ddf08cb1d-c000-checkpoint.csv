@@ -1,0 +1,857 @@
+original_title,release_date,genre,revenue,runtime,vote_average
+F9,5/19/2021,"['Action', 'Crime', 'Thriller']",721077945,143,7.4
+No Time to Die,9/29/2021,"['Adventure', 'Action', 'Thriller']",667000000,163,7.4
+Zack Snyder's Justice League,3/18/2021,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']",657000000,242,8.4
+Godzilla vs. Kong,3/24/2021,"['Action', 'Adventure', 'Fantasy']",467863133,113,7.9
+Shang-Chi and the Legend of the Ten Rings,9/1/2021,"['Action', 'Adventure', 'Fantasy']",427480601,132,7.7
+Venom: Let There Be Carnage,9/30/2021,"['Science Fiction', 'Action', 'Adventure']",424000000,97,6.8
+Black Widow,7/7/2021,"['Action', 'Adventure', 'Science Fiction']",378328978,134,7.7
+Dune,9/15/2021,"['Action', 'Adventure', 'Science Fiction']",331116356,155,8.0
+Free Guy,8/11/2021,"['Comedy', 'Action', 'Adventure', 'Science Fiction']",331096766,115,7.8
+A Quiet Place Part II,5/21/2021,"['Science Fiction', 'Thriller', 'Horror']",297372261,97,7.7
+Cruella,5/26/2021,"['Comedy', 'Crime']",233274812,134,8.3
+Jungle Cruise,7/28/2021,"['Adventure', 'Fantasy', 'Comedy', 'Action']",213644366,127,7.8
+怒火,8/13/2021,"['Action', 'Crime']",205000000,128,7.2
+The Conjuring: The Devil Made Me Do It,5/25/2021,"['Horror', 'Mystery', 'Thriller']",199166992,111,7.8
+The Suicide Squad,7/28/2021,"['Action', 'Adventure', 'Fantasy']",167381210,132,7.8
+Eternals,11/3/2021,"['Action', 'Adventure', 'Science Fiction', 'Fantasy']",165000000,157,7.1
+Peter Rabbit 2: The Runaway,3/25/2021,"['Family', 'Comedy', 'Adventure', 'Animation', 'Fantasy']",153000000,93,7.4
+刺杀小说家,2/12/2021,"['Drama', 'Action', 'Fantasy']",150000000,130,7.4
+Space Jam: A New Legacy,7/8/2021,"['Animation', 'Comedy', 'Family', 'Science Fiction']",148810604,115,7.3
+Tom & Jerry,2/11/2021,"['Comedy', 'Family', 'Animation']",132000000,101,7.1
+Raya and the Last Dragon,3/3/2021,"['Family', 'Fantasy', 'Animation', 'Action', 'Adventure']",130000000,107,8.1
+PAW Patrol: The Movie,8/9/2021,"['Animation', 'Family', 'Adventure', 'Comedy']",121000000,86,7.7
+Halloween Kills,10/14/2021,"['Horror', 'Thriller']",118852075,105,7.0
+The Boss Baby: Family Business,7/1/2021,"['Animation', 'Comedy', 'Adventure', 'Family']",112000000,107,7.7
+Wrath of Man,4/22/2021,"['Action', 'Crime', 'Thriller']",103966489,119,7.8
+The Addams Family 2,10/1/2021,"['Animation', 'Comedy', 'Family']",93258233,93,7.4
+Old,7/21/2021,"['Thriller', 'Mystery', 'Horror']",89500000,108,6.7
+Mortal Kombat,4/7/2021,"['Action', 'Fantasy', 'Adventure']",83601013,110,7.3
+シン・エヴァンゲリオン劇場版:||,3/8/2021,"['Animation', 'Action', 'Drama', 'Science Fiction']",78334943,155,8.6
+Candyman,8/25/2021,"['Horror', 'Thriller']",77389310,91,6.4
+The Forever Purge,6/30/2021,"['Horror', 'Action', 'Thriller']",76981630,103,7.4
+Hitman's Wife's Bodyguard,6/14/2021,"['Action', 'Comedy', 'Thriller']",69212098,117,7.0
+Nobody,3/18/2021,"['Action', 'Crime', 'Thriller', 'Drama']",,61779301,8.3
+竜とそばかすの姫,7/16/2021,"['Animation', 'Drama', 'Science Fiction']",,,8.0
+Luca,6/17/2021,"['Animation', 'Comedy', 'Family', 'Fantasy']",49010641,95,8.0
+Ron's Gone Wrong,10/15/2021,"['Animation', 'Science Fiction', 'Family', 'Comedy']",46000000,106,7.3
+Don't Breathe 2,8/12/2021,"['Thriller', 'Horror']",45000000,98,7.7
+Escape Room: Tournament of Champions,7/1/2021,"['Horror', 'Thriller', 'Mystery']",44888959,88,6.9
+In the Heights,6/10/2021,"['Drama', 'Music', 'Romance']",43000000,143,7.4
+僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション,8/6/2021,"['Animation', 'Action', 'Comedy', 'Fantasy', 'Adventure']",38410729,101,7.2
+Snake Eyes: G.I. Joe Origins,7/22/2021,"['Action', 'Adventure']",36964325,121,6.9
+Spiral: From the Book of Saw,5/12/2021,"['Horror', 'Crime', 'Mystery']",36544468,93,6.3
+るろうに剣心 最終章 The Final,4/23/2021,"['Action', 'Adventure', 'Drama']",33457923,138,7.9
+Respect,8/12/2021,"['Music', 'Drama', 'History']",31217372,145,6.9
+The Unholy,3/31/2021,['Horror'],30763855,99,6.9
+Последний богатырь: Корень зла,1/1/2021,"['Fantasy', 'Adventure', 'Comedy']",27658331,120,7.0
+Wish Dragon,1/15/2021,"['Animation', 'Family', 'Comedy', 'Fantasy']",25860000,99,8.2
+The Courier,3/18/2021,"['Thriller', 'History', 'Drama']",24901420,112,7.2
+Malignant,9/1/2021,"['Horror', 'Mystery', 'Thriller']",24640084,112,7.1
+The Last Duel,10/13/2021,"['Action', 'Drama', 'History', 'Thriller']",23512324,153,7.7
+Those Who Wish Me Dead,5/5/2021,['Thriller'],23384502,100,7.0
+The Little Things,1/28/2021,"['Thriller', 'Crime', 'Drama']",,,6.4
+The Marksman,1/15/2021,"['Action', 'Thriller', 'Crime']",22039969,108,7.1
+The Father,2/26/2021,['Drama'],21029340,97,8.2
+Kaamelott : Premier volet,7/21/2021,"['Adventure', 'Comedy']",19002036,120,7.2
+After We Fell,9/1/2021,"['Romance', 'Drama']",19000000,99,7.4
+Reminiscence,8/19/2021,"['Science Fiction', 'Thriller', 'Mystery', 'Romance']",18717947,116,7.1
+The Green Knight,7/29/2021,"['Adventure', 'Drama', 'Fantasy']",18192220,130,6.7
+Spirit Untamed,5/20/2021,"['Animation', 'Adventure', 'Family', 'Western']",17635215,88,7.8
+The Dry,1/1/2021,"['Mystery', 'Crime', 'Drama']",17166067,117,6.9
+Stillwater,7/29/2021,"['Drama', 'Crime', 'Thriller']",15987232,139,7.0
+Dear Evan Hansen,9/24/2021,['Drama'],15732069,137,6.8
+The French Dispatch,10/21/2021,"['Comedy', 'Drama', 'Romance']",15000000,108,7.3
+Nomadland,1/29/2021,['Drama'],14784114,108,7.3
+The Night House,7/15/2021,"['Horror', 'Thriller', 'Mystery']",14590542,107,6.8
+Minari,2/12/2021,['Drama'],12886100,115,7.4
+Last Night in Soho,10/21/2021,"['Drama', 'Horror', 'Mystery', 'Thriller']",12000000,117,7.5
+Cry Macho,9/16/2021,"['Western', 'Drama']",11780000,104,6.5
+The Many Saints of Newark,9/22/2021,"['Crime', 'Drama']",11620603,120,6.8
+Antlers,10/28/2021,"['Drama', 'Horror', 'Mystery']",9017473,99,5.9
+The Protégé,8/19/2021,"['Action', 'Crime', 'Thriller']",8115215,109,6.8
+Judas and the Black Messiah,2/12/2021,"['Drama', 'History']",6416063,125,7.5
+Copshop,9/9/2021,"['Action', 'Thriller', 'Crime']",5400000,107,6.2
+Чернобыль,4/15/2021,"['Drama', 'History', 'Adventure']",5370393,136,6.4
+Titane,7/14/2021,"['Drama', 'Thriller', 'Horror']",5115725,108,6.8
+Le sens de la famille,6/30/2021,"['Comedy', 'Romance']",4849622,92,5.9
+Майор Гром: Чумной Доктор,4/1/2021,"['Action', 'Adventure']",4493306,136,6.8
+Voyagers,4/8/2021,"['Science Fiction', 'Thriller']",4284903,108,6.3
+Opération Portugal,6/23/2021,['Comedy'],3795575,95,5.0
+Wrong Turn,1/26/2021,"['Horror', 'Thriller']",3777969,110,6.1
+12 Mighty Orphans,6/18/2021,"['History', 'Drama']",3615193,118,7.9
+Zola,6/30/2021,"['Drama', 'Comedy', 'Crime']",3500000,86,6.4
+A todo tren: destino Asturias,7/8/2021,"['Comedy', 'Family']",3468053,90,4.7
+The Card Counter,9/3/2021,"['Drama', 'Thriller', 'Crime']",3414917,111,6.6
+Benedetta,7/9/2021,"['Drama', 'History', 'Romance']",2652725,131,6.7
+Pig,7/16/2021,"['Drama', 'Thriller']",2652024,91,6.7
+Annette,7/6/2021,"['Drama', 'Romance', 'Music']",2576020,140,7.0
+Supernova,1/29/2021,"['Drama', 'Romance']",2506542,94,7.1
+The Eyes of Tammy Faye,9/17/2021,"['Drama', 'History']",2404127,126,6.0
+Land,2/12/2021,['Drama'],2375190,89,7.0
+The Ice Road,6/24/2021,"['Action', 'Adventure', 'Drama', 'Thriller']",2147110,108,7.2
+Juega Conmigo,2/25/2021,['Horror'],1753826,80,7.2
+El Exorcismo de Carmen Farías,5/5/2021,['Horror'],1474579,93,6.4
+Army of the Dead,5/14/2021,"['Action', 'Adventure', 'Crime', 'Horror']",780000,148,6.4
+Blue Bayou,9/10/2021,['Drama'],750000,119,7.2
+Bergman Island,7/14/2021,"['Drama', 'Romance']",589895,113,6.7
+Méandre,5/26/2021,"['Horror', 'Science Fiction', 'Drama', 'Thriller']",569178,91,6.0
+Great White,6/10/2021,"['Horror', 'Thriller']",517929,91,5.2
+Twist,1/22/2021,"['Crime', 'Drama', 'Action']",510466,92,6.1
+Ich bin dein Mensch,8/5/2021,"['Science Fiction', 'Comedy', 'Romance']",488267,105,6.7
+Willy's Wonderland,2/12/2021,"['Action', 'Horror', 'Comedy']",431020,88,6.5
+アーヤと魔女,1/27/2021,"['Animation', 'Fantasy', 'Family']",384659,82,6.4
+Gunpowder Milkshake,7/14/2021,"['Action', 'Thriller', 'Crime']",344931,114,6.5
+Censor,6/11/2021,"['Horror', 'Mystery']",314785,84,6.1
+Werewolves Within,6/25/2021,"['Comedy', 'Horror']",250811,97,6.1
+My Salinger Year,1/14/2021,['Drama'],236653,101,6.3
+Endangered Species,5/27/2021,"['Thriller', 'Action']",55217,101,6.3
+Lansky,6/24/2021,"['Crime', 'Drama', 'Thriller']",53478,119,6.3
+Vivo,4/9/2021,['Documentary'],40006,0,8.0
+Little Fish,2/5/2021,"['Romance', 'Science Fiction', 'Drama']",39053,101,7.2
+Shiva Baby,4/2/2021,"['Comedy', 'Drama']",31014,78,7.2
+Bloody Hell,1/14/2021,"['Horror', 'Comedy']",28037,94,6.4
+Flashback,6/3/2021,['Thriller'],26747,97,6.5
+The Penitent Thief,2/25/2021,['Drama'],21507,93,4.8
+Sweat,3/12/2021,"['Drama', 'Thriller']",11546,107,7.0
+Marco effekten,5/27/2021,"['Thriller', 'Crime']",2686,120,6.5
+Army of Thieves,10/27/2021,"['Action', 'Crime', 'Thriller']",0,127,6.9
+W lesie dziś nie zaśnie nikt 2,10/27/2021,"['Horror', 'Thriller']",0,96,4.1
+American Badger,3/5/2021,"['Action', 'Thriller']",0,88,6.3
+劇場版 七つの大罪 光に呪われし者たち,7/2/2021,"['Animation', 'Action']",,,8.4
+The Vault,3/3/2021,"['Crime', 'Action', 'Thriller']",0,118,7.1
+The Deep House,6/30/2021,['Horror'],0,85,5.5
+I onde dager,7/30/2021,"['Action', 'Comedy', 'Thriller', 'Horror']",0,113,6.8
+Zone 414,9/3/2021,"['Science Fiction', 'Thriller', 'Mystery']",0,98,5.8
+Peçanha Contra o Animal,10/22/2021,"['Comedy', 'Crime']",0,67,5.4
+W jak morderstwo,6/18/2021,"['Crime', 'Mystery', 'Drama', 'Comedy']",0,104,5.8
+Ripper Untold,6/28/2021,['Horror'],0,85,6.5
+Matando Cabos 2: La Máscara del Máscara,10/1/2021,"['Action', 'Comedy', 'Adventure']",,,7.9
+Operación Camarón,6/24/2021,['Comedy'],0,90,5.5
+Separation,4/30/2021,['Horror'],0,107,6.0
+Dragon Fury,6/15/2021,"['Horror', 'Fantasy', 'Mystery']",0,88,6.0
+Kin,10/8/2021,"['Crime', 'Drama', 'Thriller']",0,104,6.6
+Hypnotic,10/27/2021,"['Thriller', 'Drama', 'Horror']",0,88,6.2
+Rock Dog 2: Rock Around the Park,6/24/2021,"['Animation', 'Comedy', 'Music', 'Family']",0,90,7.6
+Caged,1/26/2021,"['Thriller', 'Horror']",0,81,6.6
+Injustice,10/9/2021,"['Animation', 'Science Fiction', 'Fantasy', 'Action']",0,78,8.0
+Cosmic Sin,3/12/2021,['Science Fiction'],0,88,4.4
+BAC Nord,8/18/2021,"['Crime', 'Thriller']",0,105,7.7
+Demonic,7/29/2021,"['Horror', 'Thriller']",0,104,4.9
+The Tomorrow War,7/2/2021,"['Action', 'Science Fiction', 'Adventure']",0,138,8.1
+Infinite,9/9/2021,"['Science Fiction', 'Action', 'Thriller']",0,106,6.9
+LOL Surprise: The Movie,10/8/2021,"['Animation', 'Family']",0,0,7.5
+Ainbo: Spirit of the Amazon,2/9/2021,"['Adventure', 'Animation', 'Family', 'Fantasy']",,0,7.2
+"Miraculous World: Shanghai, la légende de Ladydragon",5/15/2021,"['Animation', 'Comedy', 'Family', 'Adventure']",0,52,8.0
+Spider-Man: No Way Home,12/15/2021,"['Action', 'Adventure', 'Science Fiction']",0,0,0.0
+Narco Sub,1/22/2021,"['Action', 'Drama', 'Crime']",0,93,7.1
+Night Teeth,10/20/2021,"['Horror', 'Thriller', 'Action']",0,107,6.8
+Sweet Girl,8/18/2021,['Action'],0,110,6.9
+Redemption Day,1/8/2021,['Action'],0,100,6.7
+真·三国无双,4/29/2021,"['Action', 'Adventure', 'Fantasy']",0,117,6.7
+Mi otra yo,6/15/2021,['Comedy'],0,89,6.3
+Finch,11/4/2021,"['Science Fiction', 'Drama', 'Adventure']",0,115,8.0
+機動戦士ガンダム 閃光のハサウェイ,6/11/2021,"['Animation', 'Action', 'Drama', 'Science Fiction']",0,96,8.1
+Catch the Bullet,9/10/2021,"['Western', 'Action']",0,89,5.6
+Rogue Hostage,6/11/2021,"['Action', 'Thriller']",0,94,6.4
+Women,4/8/2021,['Thriller'],0,90,6.1
+SAS: Red Notice,8/11/2021,"['Drama', 'Action', 'Thriller']",0,120,6.0
+Bloodthirsty,4/23/2021,['Horror'],0,82,6.6
+Jurassic Hunt,8/26/2021,"['Action', 'Science Fiction', 'Thriller']",0,83,5.0
+Monster Pets: A Hotel Transylvania Short,4/2/2021,"['Animation', 'Comedy', 'Fantasy']",0,6,7.5
+Red Notice,11/5/2021,"['Action', 'Comedy', 'Crime', 'Thriller']",0,116,7.4
+るろうに剣心 最終章 The Beginning,6/4/2021,"['Action', 'Adventure', 'Drama']",0,138,7.9
+Sharkdog’s Fintastic Halloween,10/15/2021,"['Animation', 'Fantasy', 'Family']",0,24,3.7
+Under Wraps,10/1/2021,"['Comedy', 'Family', 'Fantasy']",0,91,7.1
+Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog,9/14/2021,"['Animation', 'Comedy', 'Mystery', 'Family', 'Fantasy']",0,72,8.3
+My Little Pony: A New Generation,9/23/2021,"['Animation', 'Family', 'Fantasy', 'Comedy', 'Music', 'Adventure']",0,91,8.1
+We Broke Up,4/23/2021,['Comedy'],0,82,5.7
+Chacun chez soi,6/2/2021,['Comedy'],0,83,5.4
+Swim,8/13/2021,"['Horror', 'Action']",0,87,7.4
+Kate,9/10/2021,"['Action', 'Thriller']",0,106,6.8
+"The Simpsons: The Good, the Bart, and the Loki",7/7/2021,"['Animation', 'Comedy', 'Family']",0,6,7.6
+El mesero,7/15/2021,['Comedy'],0,86,8.3
+Love Hard,11/5/2021,"['Comedy', 'Romance']",0,105,6.6
+Encanto,11/24/2021,"['Family', 'Music', 'Adventure', 'Animation', 'Fantasy']",0,99,0.0
+ブライト: サムライソウル,10/12/2021,"['Animation', 'Action', 'Fantasy']",0,80,6.2
+Apex,11/12/2021,"['Action', 'Thriller', 'Science Fiction']",0,108,5.3
+Un rescate de huevitos,8/12/2021,"['Animation', 'Comedy']",0,0,8.1
+Le Dernier Mercenaire,7/30/2021,"['Action', 'Comedy']",0,110,6.8
+Little Big Mouth,10/22/2021,['Comedy'],0,94,4.9
+Nightbooks,9/15/2021,"['Fantasy', 'Family', 'Horror']",0,103,6.6
+LEGO Star Wars Terrifying Tales,10/1/2021,"['Family', 'Animation', 'Science Fiction', 'Comedy']",0,45,6.6
+Catalina la Catrina: especial Día de Muertos,10/1/2021,"['Family', 'Animation']",0,0,3.3
+Muppets Haunted Mansion,10/8/2021,"['Comedy', 'Family', 'TV Movie']",0,52,6.9
+Jolt,7/15/2021,"['Action', 'Comedy']",0,91,6.8
+Tom Clancy's Without Remorse,4/29/2021,"['Action', 'Thriller']",0,109,7.2
+Vivo,7/30/2021,"['Animation', 'Family', 'Comedy']",0,99,7.7
+"Barbie: Big City, Big Dreams",8/20/2021,"['Animation', 'Music', 'Family']",0,62,7.2
+No me echen ese muerto,10/9/2021,['Comedy'],0,0,7.4
+The Misfits,6/10/2021,['Action'],0,94,5.6
+Mortal Kombat Legends: Battle of the Realms,8/30/2021,"['Animation', 'Action', 'Fantasy']",0,80,8.1
+서복,4/12/2021,"['Science Fiction', 'Action']",0,114,7.5
+Beckett,8/4/2021,"['Action', 'Crime', 'Drama', 'Mystery']",0,109,6.4
+Escape The Undertaker,10/5/2021,"['Horror', 'Mystery', 'Family']",0,31,5.3
+Body Brokers,2/19/2021,"['Thriller', 'Crime']",0,111,6.6
+The Toll,3/26/2021,"['Thriller', 'Horror']",0,80,6.2
+No One Gets Out Alive,9/29/2021,"['Horror', 'Thriller', 'Mystery']",0,85,6.0
+火星异变,8/27/2021,"['Drama', 'Science Fiction']",0,0,6.3
+Farm to Fork to Love,4/29/2021,"['Romance', 'TV Movie']",0,87,5.2
+Teen Titans Go! See Space Jam,6/20/2021,"['Animation', 'Action', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Science Fiction']",0,80,7.0
+싱크홀,8/11/2021,"['Comedy', 'Drama']",0,113,7.3
+Long Story Short,2/11/2021,"['Romance', 'Comedy', 'Fantasy']",0,90,7.4
+Awake,6/9/2021,"['Drama', 'Science Fiction', 'Thriller']",0,96,6.0
+There's Someone Inside Your House,9/24/2021,"['Horror', 'Thriller', 'Mystery']",0,96,5.7
+Vacation Friends,8/27/2021,['Comedy'],0,103,7.3
+劇場版 美少女戦士セーラームーンEternal 後編,2/11/2021,"['Animation', 'Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Romance']",0,80,8.2
+Este amor es de otro planeta,3/31/2021,"['Comedy', 'Romance']",0,88,4.5
+Go! Go! Cory Carson: Chrissy Takes the Wheel,9/21/2021,"['Animation', 'Family']",0,0,5.5
+García y García,8/27/2021,['Comedy'],0,0,3.2
+Trigger Point,4/23/2021,"['Action', 'Thriller']",0,82,6.6
+The Harder They Fall,10/22/2021,['Western'],0,139,6.6
+The Loud House Movie,8/20/2021,"['Animation', 'Family', 'Comedy', 'Music', 'Fantasy']",0,83,8.4
+De Slag om de Schelde,6/5/2021,"['War', 'History', 'Drama']",0,124,7.2
+Confissões de Uma Garota Excluída,9/22/2021,"['Comedy', 'Drama']",0,91,6.9
+粉色樱与大眠王,7/6/2021,['Romance'],0,77,4.5
+Bartkowiak,7/28/2021,"['Action', 'Thriller']",0,91,6.3
+He's All That,8/27/2021,"['Comedy', 'Romance']",0,91,6.9
+8 Rue de l'Humanité,10/20/2021,['Comedy'],0,126,6.1
+The Virtuoso,4/30/2021,"['Thriller', 'Action', 'Crime']",0,105,6.3
+Fear Street: 1994,6/28/2021,"['Horror', 'Mystery']",0,107,6.8
+PAW Patrol: Jet to the Rescue,12/2/2021,"['Family', 'Animation']",0,56,0.0
+Fatherhood,6/18/2021,"['Drama', 'Family', 'Comedy']",0,109,7.7
+22 vs. Earth,4/30/2021,"['Family', 'Comedy', 'Fantasy', 'Animation']",0,9,7.1
+Azor,9/10/2021,['Drama'],0,100,5.6
+Warning,10/22/2021,"['Science Fiction', 'Thriller', 'Drama']",0,85,5.9
+Cato,10/14/2021,['Drama'],0,0,2.0
+Fuimos canciones,9/29/2021,"['Comedy', 'Romance']",0,110,6.6
+Finding You,5/13/2021,"['Romance', 'Drama']",0,119,6.4
+Chaos Walking,2/24/2021,['Science Fiction'],0,109,6.8
+La noche mágica,3/11/2021,"['Comedy', 'Drama']",0,98,8.2
+Trollhunters: Rise of the Titans,7/21/2021,"['Animation', 'Fantasy', 'Family', 'Action', 'Adventure', 'Science Fiction']",0,106,8.0
+Sinaliento,8/11/2021,"['Crime', 'Drama', 'Thriller']",0,106,5.9
+No Man of God,8/19/2021,"['Crime', 'Drama', 'History']",0,100,6.9
+The Legacy of Chucky,7/25/2021,"['Horror', 'Documentary']",0,14,5.4
+Outside the Wire,1/15/2021,"['Thriller', 'Action', 'Science Fiction']",0,116,6.4
+Sing 2,12/2/2021,"['Family', 'Comedy', 'Animation', 'Drama', 'Music']",0,112,0.0
+Ghostbusters: Afterlife,11/11/2021,"['Comedy', 'Fantasy']",0,124,7.9
+The Secret Lives of College Freshmen,9/24/2021,"['TV Movie', 'Thriller']",0,0,2.0
+A un paso de mí,2/25/2021,"['Adventure', 'Comedy', 'Drama']",0,0,7.0
+새콤달콤,6/4/2021,"['Comedy', 'Romance']",0,101,7.9
+The Kissing Booth 3,8/11/2021,"['Romance', 'Comedy']",0,112,7.3
+Amina,11/4/2021,"['War', 'History', 'Drama', 'Adventure']",0,120,6.0
+Safer at Home,2/26/2021,"['Thriller', 'Horror']",0,82,5.7
+Madres,10/8/2021,['Horror'],0,83,5.9
+Sentinelle,3/5/2021,"['Thriller', 'Action', 'Drama']",0,80,5.9
+Cinderella,9/3/2021,"['Fantasy', 'Romance', 'Comedy']",0,113,6.7
+Best Sellers,9/9/2021,"['Drama', 'Comedy']",0,100,6.4
+Distancia de rescate,10/6/2021,"['Horror', 'Thriller', 'Drama']",0,93,6.1
+Vanquish,4/16/2021,"['Action', 'Crime', 'Thriller']",0,96,6.0
+Mickey's Tale of Two Witches,10/7/2021,['Animation'],0,46,7.0
+Crisis,2/26/2021,"['Thriller', 'Crime', 'Drama']",0,118,6.4
+No Sudden Move,6/24/2021,"['Crime', 'Drama', 'Mystery']",0,115,6.5
+The Voyeurs,8/25/2021,['Thriller'],0,117,6.9
+Destello Bravío,6/18/2021,['Drama'],0,98,6.1
+Lokillo: nada es igual,8/12/2021,['Comedy'],0,64,7.8
+Barbie & Chelsea: The Lost Birthday,5/14/2021,['Animation'],,,7.2
+Girl in the Basement,2/27/2021,"['Crime', 'Thriller']",0,90,8.1
+Tentacles,2/12/2021,"['Horror', 'Romance']",0,84,6.2
+Les Rois de l'arnaque,11/3/2021,['Documentary'],0,105,6.0
+제8일의 밤,7/2/2021,"['Mystery', 'Thriller', 'Horror']",0,115,6.1
+Plan A,9/3/2021,['Thriller'],0,109,4.3
+Schwarze Insel,8/17/2021,['Thriller'],0,105,6.2
+Justice Society: World War II,4/27/2021,"['Animation', 'War', 'Science Fiction']",0,84,7.8
+Resort to Love,7/29/2021,"['Romance', 'Comedy']",0,101,7.4
+Smelliville,1/1/2021,"['Animation', 'Drama', 'Adventure', 'Family']",0,85,7.6
+Thunder Force,4/9/2021,"['Action', 'Adventure', 'Comedy']",0,107,5.7
+승리호,2/5/2021,"['Drama', 'Fantasy', 'Science Fiction']",0,136,7.2
+"Batman: The Long Halloween, Part Two",7/26/2021,"['Animation', 'Mystery', 'Action', 'Crime']",0,87,7.7
+Dreamcatcher,3/5/2021,"['Horror', 'Mystery', 'Thriller']",0,90,6.6
+Resident Evil: Welcome to Raccoon City,11/24/2021,"['Horror', 'Action', 'Mystery']",0,107,0.0
+Bajocero,1/29/2021,"['Action', 'Crime', 'Thriller']",0,106,6.4
+新神榜：哪吒重生,2/6/2021,"['Animation', 'Action', 'Fantasy']",0,116,8.3
+Adventures of a Mathematician,6/11/2021,"['Drama', 'History']",0,102,6.4
+The Guilty,9/24/2021,"['Crime', 'Drama', 'Thriller']",0,91,6.5
+El prófugo,7/30/2021,['Thriller'],0,95,5.1
+Return of Chucky,12/31/2021,[],0,60,0.0
+America: The Motion Picture,6/30/2021,"['Action', 'Comedy', 'History', 'Animation', 'Fantasy']",0,98,5.8
+Dinosaur Hotel,6/11/2021,"['Horror', 'Science Fiction', 'Mystery']",0,77,5.3
+Red Dot,2/11/2021,"['Thriller', 'Drama', 'Horror']",0,86,5.9
+Du Sie Er & Wir,10/15/2021,"['Comedy', 'Romance', 'Drama']",0,88,5.2
+Intrusion,9/22/2021,['Thriller'],0,93,6.2
+Terapia do Medo,8/4/2021,"['Mystery', 'Horror', 'Thriller']",0,84,6.8
+Cherry,2/26/2021,"['Crime', 'Drama']",0,140,7.5
+Stay Out of the Attic,3/11/2021,['Horror'],0,80,5.8
+The Mad Hatter,1/29/2021,"['Horror', 'Thriller']",0,90,5.8
+Fear Street: 1666,7/14/2021,"['Mystery', 'Horror']",0,114,7.4
+The Seventh Day,3/26/2021,['Horror'],0,87,5.7
+The Space Between,4/23/2021,"['Drama', 'Comedy']",,,5.5
+八月未央,4/16/2021,['Romance'],0,95,2.0
+余生，请多指教,2/3/2021,['Romance'],0,76,2.0
+ボクたちはみんな大人になれなかった,11/5/2021,"['Romance', 'Drama']",0,124,4.0
+Fear Street: 1978,7/8/2021,"['Horror', 'Mystery']",0,110,7.3
+Butchers,1/12/2021,['Horror'],0,93,4.9
+"Batman: The Long Halloween, Part One",6/21/2021,"['Animation', 'Mystery', 'Action', 'Crime']",0,85,7.9
+Después de ti,4/8/2021,"['Comedy', 'Drama']",0,92,7.9
+Clifford the Big Red Dog,11/10/2021,"['Family', 'Animation', 'Comedy']",0,97,0.0
+La funeraria,4/15/2021,['Horror'],0,86,4.1
+Friends: The Reunion,5/27/2021,['Documentary'],0,104,8.2
+Dangerous,11/5/2021,"['Action', 'Thriller']",0,99,5.5
+Just Say Yes,4/2/2021,"['Comedy', 'Romance']",0,97,6.7
+A Menina Que Matou os Pais,9/24/2021,"['Crime', 'Drama', 'Thriller']",0,85,6.5
+Coming 2 America,3/5/2021,['Comedy'],0,110,6.7
+Prey,9/10/2021,['Thriller'],0,86,4.5
+Le bal des folles,9/12/2021,"['Drama', 'Thriller']",0,122,7.1
+Blood Red Sky,7/23/2021,"['Horror', 'Thriller', 'Action']",0,121,7.2
+Aftermath,8/4/2021,"['Horror', 'Crime', 'Drama', 'Thriller']",0,114,6.6
+Black as Night,10/1/2021,"['Horror', 'Thriller']",0,87,5.4
+Solo una vez,6/11/2021,['Drama'],0,0,4.7
+여고괴담 여섯번째 이야기: 모교,6/17/2021,['Horror'],0,117,7.7
+Llanto Maldito,7/29/2021,['Horror'],0,0,3.7
+Maya the Bee: The Golden Orb,1/7/2021,"['Adventure', 'Animation', 'Family']",0,88,6.6
+O Menino Que Matou Meus Pais,9/24/2021,"['Crime', 'Drama', 'Thriller']",0,88,6.4
+Dýrið,8/12/2021,"['Drama', 'Horror', 'Mystery']",0,106,6.7
+Guerra de Likes,3/12/2021,['Comedy'],0,103,7.8
+A Classic Horror Story,7/14/2021,"['Drama', 'Horror', 'Mystery', 'Comedy']",0,95,6.0
+Happier Than Ever: A Love Letter to Los Angeles,9/3/2021,"['Documentary', 'Music', 'Animation']",,0,7.9
+Justin Bieber: Our World,10/8/2021,"['Music', 'Documentary']",0,94,7.5
+Daisy Quokka: World's Scariest Animal,2/4/2021,"['Animation', 'Comedy', 'Family']",0,88,6.7
+"Ганзель, Гретель и Агентство Магии",3/18/2021,"['Animation', 'Comedy', 'Fantasy']",0,104,7.2
+Scooby-Doo! The Sword and the Scoob,2/22/2021,"['Animation', 'Comedy', 'Family', 'Mystery', 'Adventure', 'Fantasy']",0,72,7.9
+Monstruosamente Solo,9/16/2021,"['Comedy', 'Drama', 'Animation']",0,0,5.2
+Lady of the Manor,9/17/2021,"['Comedy', 'Fantasy']",0,96,6.8
+Пальма,3/18/2021,"['Family', 'Romance']",0,110,8.5
+Chilangolandia,9/16/2021,['Comedy'],0,0,3.0
+Quem Vai Ficar com Mário?,6/10/2021,['Comedy'],0,105,5.7
+I Am All Girls,5/14/2021,"['Crime', 'Drama', 'Mystery', 'Thriller']",0,107,6.7
+Xtremo,6/4/2021,"['Action', 'Adventure', 'Crime']",0,111,6.8
+Super Monsters: Once Upon a Rhyme,6/1/2021,['Animation'],0,0,6.3
+Sugar Daddy,4/9/2021,['Drama'],0,100,6.3
+불어라 검풍아,4/8/2021,"['Action', 'Comedy']",0,99,5.5
+The Banishing,4/29/2021,['Horror'],0,97,5.5
+Finding 'Ohana,1/29/2021,"['Action', 'Adventure', 'Comedy', 'Family']",0,123,6.5
+Le guide de la famille parfaite,7/14/2021,"['Comedy', 'Drama']",0,102,6.6
+Father Christmas Is Back,11/7/2021,"['Comedy', 'Family']",0,105,5.8
+Mainstream,5/7/2021,"['Comedy', 'Drama']",0,95,5.2
+Flora & Ulysses,2/19/2021,"['Family', 'Adventure', 'Comedy', 'Fantasy']",0,91,6.7
+Paranormal Activity: Next of Kin,10/29/2021,"['Horror', 'Mystery', 'Thriller']",0,98,6.9
+Rise of the Mummy,4/3/2021,"['Horror', 'Science Fiction']",0,90,5.1
+Shadow in the Cloud,1/1/2021,"['Horror', 'Action', 'War']",0,83,5.9
+Afterlife of the Party,9/2/2021,"['Fantasy', 'Comedy', 'Drama']",0,109,6.9
+One Shot,11/5/2021,['Action'],0,97,4.8
+Maggie Simpson in The Force Awakens from Its Nap,5/4/2021,"['Family', 'Animation', 'Comedy', 'Science Fiction']",0,3,6.9
+Vinterviken,9/8/2021,"['Romance', 'Drama']",0,90,5.6
+Como Hackear Seu Chefe,6/4/2021,['Comedy'],0,0,6.7
+哭悲,1/22/2021,"['Thriller', 'Horror']",0,99,6.2
+CODA,7/30/2021,"['Drama', 'Music', 'Romance']",0,112,8.3
+Initiation,5/7/2021,"['Horror', 'Mystery']",0,96,5.9
+Bingo Hell,10/1/2021,['Thriller'],0,85,5.3
+Daddy's Perfect Little Girl,4/30/2021,"['Drama', 'TV Movie']",0,0,6.0
+"Ni tuyo, Ni mía",8/19/2021,['Drama'],0,0,2.0
+The God Committee,7/2/2021,"['Thriller', 'Drama']",0,98,7.6
+La Casa de las Flores: la película,6/23/2021,['Drama'],0,86,8.3
+Forever Rich,10/1/2021,"['Crime', 'Comedy', 'Drama']",0,89,6.0
+Oxygène,5/12/2021,"['Science Fiction', 'Thriller', 'Horror']",0,100,6.7
+The Electrical Life of Louis Wain,10/21/2021,"['Drama', 'History']",0,111,7.0
+Birds of Paradise,9/23/2021,['Drama'],0,113,7.0
+The Starling,9/17/2021,"['Comedy', 'Drama']",0,103,7.2
+Swallow,10/1/2021,"['Drama', 'History', 'Thriller', 'Crime']",0,0,4.7
+V/H/S/94,9/26/2021,"['Horror', 'Thriller']",0,102,6.7
+Next-Door Nightmare,7/8/2021,"['Thriller', 'TV Movie']",0,86,6.0
+彼女,4/15/2021,"['Drama', 'Romance', 'Thriller']",0,142,6.4
+Friendzone,9/29/2021,"['Romance', 'Comedy']",0,88,6.3
+โปรเจกต์ลับ หลับ เป็น ตาย,7/16/2021,"['Science Fiction', 'Thriller']",0,101,6.4
+Boss Level,2/19/2021,"['Action', 'Science Fiction', 'Thriller']",0,101,6.9
+El cuartito,3/25/2021,['Comedy'],0,94,4.6
+Ilhados,1/2/2021,['Drama'],0,83,5.0
+Ferry,5/14/2021,"['Action', 'Crime', 'Drama']",0,106,6.8
+Yes Day,3/12/2021,"['Comedy', 'Family']",0,86,7.0
+Stop,5/1/2021,[],0,0,4.0
+Spencer,11/5/2021,['Drama'],0,111,7.2
+Psycho Goreman,1/22/2021,"['Science Fiction', 'Comedy', 'Horror']",0,95,6.2
+Fear of Rain,2/12/2021,"['Thriller', 'Horror', 'Drama']",0,109,7.2
+Carnaval,6/2/2021,['Comedy'],0,94,5.3
+Fondeados,7/23/2021,['Comedy'],0,97,6.5
+Four Good Days,4/30/2021,['Drama'],0,100,7.1
+Found,10/13/2021,['Documentary'],0,97,7.4
+The Right Mom,9/17/2021,['Drama'],0,90,2.5
+Batman: Soul of the Dragon,1/12/2021,"['Animation', 'Action', 'Adventure', 'Crime', 'Fantasy']",0,83,7.0
+Конёк-горбунок,2/18/2021,"['Adventure', 'Fantasy']",0,100,6.2
+"Mio fratello, mia sorella",10/8/2021,['Drama'],0,110,6.7
+All for Her,9/13/2021,['Drama'],0,82,4.0
+A Perfect Fit,7/15/2021,"['Romance', 'Comedy', 'Drama']",0,112,7.5
+Seven Deadly Sins: Lust,4/10/2021,['Drama'],0,87,4.5
+BIA: Un Mundo al Revés,2/19/2021,"['Comedy', 'Drama', 'Family']",0,91,7.9
+Palmer,1/29/2021,['Drama'],0,110,8.1
+Locked Down,2/25/2021,"['Comedy', 'Crime', 'Drama']",0,118,5.5
+Penguin Bloom,1/21/2021,['Drama'],0,95,7.1
+The Last Letter From Your Lover,7/23/2021,"['Drama', 'Romance']",0,110,7.6
+El cover,7/23/2021,"['Comedy', 'Romance', 'Music']",0,90,6.8
+Cabras da Peste,3/18/2021,"['Action', 'Comedy', 'Crime']",0,97,7.0
+劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア,10/30/2021,"['Animation', 'Action', 'Fantasy', 'Science Fiction']",0,0,8.0
+Tata mută munții,7/25/2021,"['Drama', 'Thriller']",0,108,5.9
+킹덤: 아신전,7/23/2021,"['Drama', 'Fantasy', 'Thriller']",0,92,7.6
+Hiacynt,8/18/2021,['Thriller'],0,106,6.2
+To All the Boys: Always and Forever,2/12/2021,"['Romance', 'Comedy', 'Drama']",0,115,7.8
+Convergence: Courage in a Crisis,10/8/2021,['Documentary'],0,113,5.3
+Dancing Queens,6/3/2021,"['Comedy', 'Drama']",0,110,5.8
+Silk Road,2/19/2021,"['Crime', 'Thriller', 'Drama']",0,116,6.8
+The Perfect Wedding,6/3/2021,"['Thriller', 'TV Movie']",0,86,2.0
+The King's Man,12/22/2021,"['War', 'Action', 'Thriller', 'Adventure']",0,131,0.0
+ร่างทรง,7/14/2021,"['Horror', 'Thriller']",0,131,7.1
+Framed by My Husband,7/10/2021,"['TV Movie', 'Thriller']",0,85,2.0
+Shark Beach with Chris Hemsworth,7/5/2021,['Documentary'],0,44,6.4
+Sous les étoiles de Paris,4/8/2021,"['Drama', 'Comedy']",0,86,5.9
+The Matrix Resurrections,12/15/2021,"['Action', 'Adventure', 'Science Fiction']",0,147,0.0
+Le loup et le lion,10/13/2021,"['Adventure', 'Family']",0,99,6.4
+A Cinderella Story: Starstruck,6/29/2021,"['Romance', 'Comedy', 'Music']",0,100,7.4
+Trippin’ with the Kandasamys,6/4/2021,"['Comedy', 'Romance']",0,93,7.1
+The Most Beautiful Boy in the World,7/30/2021,['Documentary'],0,93,7.6
+Torcidos,8/27/2021,['Horror'],0,0,4.8
+House of Gucci,11/24/2021,"['Crime', 'Drama']",0,157,0.0
+"Civil War (Or, Who Do We Think We Are)",6/17/2021,['Documentary'],0,100,2.0
+Loco por ella,2/26/2021,"['Comedy', 'Romance']",0,102,7.3
+King Richard,11/18/2021,['Drama'],0,138,0.0
+Una película de policías,10/28/2021,['Documentary'],0,107,7.0
+Geçen Yaz,7/9/2021,"['Romance', 'Drama']",0,101,5.8
+Danny Boy,5/12/2021,"['Drama', 'War', 'TV Movie']",0,90,7.8
+The World to Come,2/12/2021,"['Romance', 'Drama', 'Western']",0,105,7.2
+Souvenir,3/4/2021,['Drama'],0,113,6.5
+La Bruja,10/28/2021,"['Drama', 'Horror']",0,0,2.0
+Home Sweet Home Alone,11/12/2021,"['Comedy', 'Family']",0,90,6.0
+Seven Deadly Sins: Envy,4/17/2021,['Drama'],0,87,6.3
+A World Without,10/14/2021,"['Mystery', 'Thriller', 'Drama']",0,106,4.4
+Kağıttan Hayatlar,3/12/2021,['Drama'],0,96,8.2
+Nine Days,7/15/2021,"['Drama', 'Fantasy']",0,124,7.3
+Je suis Karl,9/16/2021,['Drama'],0,126,5.0
+Schumacher,9/15/2021,['Documentary'],0,112,7.4
+The Mauritanian,2/10/2021,"['Drama', 'Thriller']",0,129,7.5
+Security,6/7/2021,['Thriller'],0,118,5.8
+ホムンクルス,4/2/2021,"['Drama', 'Thriller']",0,119,6.2
+Nussa,10/14/2021,"['Animation', 'Family']",0,107,6.7
+โกสต์แล็บ..ฉีกกฎทดลองผี,5/26/2021,"['Drama', 'Horror', 'Science Fiction', 'Thriller']",0,117,6.4
+Barb & Star Go to Vista Del Mar,3/29/2021,['Comedy'],0,107,5.9
+Os Salafrários,4/28/2021,"['Comedy', 'Crime']",0,94,6.7
+Јужни Ветар 2: Убрзање,1/1/2021,"['Crime', 'Drama', 'Thriller']",0,0,9.3
+劇場版 呪術廻戦 0,12/24/2021,"['Animation', 'Action', 'Adventure', 'Mystery']",0,0,0.0
+American Traitor: The Trial of Axis Sally,5/28/2021,"['Drama', 'History']",0,107,5.7
+The Beta Test,10/15/2021,"['Comedy', 'Mystery', 'Thriller', 'Horror']",0,93,5.8
+Sulla stessa onda,3/25/2021,"['Drama', 'Romance']",0,99,6.8
+Midnight in the Switchgrass,7/23/2021,"['Crime', 'Mystery', 'Thriller', 'Action']",0,99,6.5
+Lair,11/9/2021,['Horror'],0,96,3.0
+Malcolm & Marie,1/29/2021,"['Romance', 'Drama']",0,106,7.1
+Un efecto óptico,3/26/2021,['Thriller'],0,78,4.8
+Peligro en tu mirada,8/6/2021,"['Drama', 'Thriller']",0,0,7.1
+Luxor,7/21/2021,"['Romance', 'Drama']",0,85,7.4
+Jeepers Creepers: Reborn,12/23/2021,"['Horror', 'Thriller']",0,0,0.0
+The Mitchells vs. the Machines,4/22/2021,"['Animation', 'Adventure', 'Comedy', 'Family', 'Science Fiction', 'Action']",0,114,8.1
+The Last Bus,6/18/2021,['Drama'],0,88,5.7
+The Witcher: Nightmare of the Wolf,8/23/2021,"['Animation', 'Action', 'Fantasy']",0,83,7.8
+Stowaway,6/24/2021,"['Science Fiction', 'Drama', 'Thriller']",0,117,6.0
+V.C. Andrews' Pearl in the Mist,3/21/2021,"['TV Movie', 'Drama']",0,90,7.2
+Bliss,2/5/2021,"['Science Fiction', 'Romance', 'Drama']",0,103,5.5
+The Woman in the Window,5/14/2021,"['Drama', 'Thriller', 'Crime', 'Mystery']",0,102,6.1
+Old Henry,10/1/2021,"['Western', 'Thriller']",0,99,7.4
+सूर्यवंशी,11/5/2021,"['Action', 'Drama', 'Crime']",0,145,4.7
+Monster Hunter: Legends of the Guild,8/12/2021,"['Animation', 'Adventure', 'Action', 'Fantasy']",0,58,5.8
+Megalodon Rising,8/27/2021,"['Action', 'Science Fiction']",0,86,6.8
+Death She Wrote,8/6/2021,['Drama'],0,0,2.0
+My Father's Other Family,4/18/2021,"['Thriller', 'Drama']",0,87,1.5
+The Unforgivable,11/24/2021,['Drama'],0,113,0.0
+Pelé,2/23/2021,['Documentary'],0,108,7.5
+Toma,12/20/2021,"['Drama', 'Music', 'History']",0,140,0.0
+모가디슈,7/28/2021,"['War', 'Drama', 'Action']",0,121,7.6
+Le bruit des trousseaux,11/8/2021,"['Drama', 'TV Movie']",0,90,8.0
+A Christmas Treasure,11/7/2021,"['TV Movie', 'Comedy', 'Romance']",0,84,3.5
+Looks That Kill,3/18/2021,"['Comedy', 'Romance', 'Drama']",0,92,7.4
+Gully,6/4/2021,"['Drama', 'Crime']",0,81,5.1
+Harry Potter: Different Perspective,8/10/2021,['Fantasy'],0,0,2.0
+Ovella,5/1/2021,['Drama'],0,63,6.0
+"Sabina - Tortured for Christ, the Nazi Years",11/8/2021,"['Drama', 'History']",0,115,0.0
+"Next Stop, Christmas",11/6/2021,"['TV Movie', 'Fantasy', 'Drama']",0,84,4.0
+Last Man Down,10/19/2021,"['Action', 'Thriller']",0,87,5.2
+Come and Learn with Pibby!,10/30/2021,"['Animation', 'Horror']",0,2,7.3
+The Dig,1/14/2021,"['Drama', 'History']",0,112,6.9
+Les femmes et l'assassin,9/9/2021,"['Documentary', 'Crime']",0,92,6.1
+The Show,8/26/2021,"['Drama', 'Fantasy', 'Mystery']",0,115,6.0
+Till Death,7/2/2021,"['Horror', 'Thriller']",0,89,6.7
+Breaking News in Yuba County,1/28/2021,"['Comedy', 'Drama', 'Crime', 'Thriller']",0,96,6.0
+ஜகமே தந்திரம்,6/18/2021,"['Crime', 'Comedy']",0,158,6.2
+Edge of the World,8/27/2021,"['Adventure', 'Drama', 'History']",0,104,5.1
+Moxie,3/3/2021,"['Comedy', 'Drama', 'Music']",0,111,7.5
+Happily,3/19/2021,"['Comedy', 'Romance', 'Thriller']",0,96,5.8
+Dear Rider: The Jake Burton Story,11/9/2021,['Documentary'],0,91,0.0
+Yara,10/18/2021,"['Crime', 'Drama']",0,95,6.1
+Christmas with a Prince: The Royal Baby,11/7/2021,"['TV Movie', 'Romance']",0,0,2.0
+東京リベンジャーズ,7/9/2021,"['Action', 'Drama']",0,120,7.3
+Arlo the Alligator Boy,4/16/2021,"['Animation', 'Comedy', 'Family']",0,92,7.0
+More Than Miyagi: The Pat Morita Story,2/1/2021,['Documentary'],0,90,6.6
+Los dias que no estuve,2/19/2021,['Drama'],0,0,7.5
+The Little Prince(ss),5/28/2021,"['Family', 'Drama']",0,19,7.5
+Los días francos,9/18/2021,['Drama'],0,79,4.3
+Jumanji: Level One,1/20/2021,['Adventure'],0,23,6.3
+13 Minutes,10/29/2021,"['Drama', 'Thriller']",0,109,6.1
+Hideout,11/9/2021,"['Horror', 'Crime']",0,114,0.0
+"tick, tick...BOOM!",11/11/2021,"['Music', 'Drama']",0,115,2.0
+Potter's Ground,6/1/2021,"['Drama', 'Thriller', 'Western']",0,100,6.4
+My Son,10/14/2021,"['Crime', 'Drama', 'Mystery']",0,95,6.2
+A Week Away,3/26/2021,"['Drama', 'Family', 'Music', 'Romance']",0,94,7.1
+강릉,11/10/2021,"['Action', 'Crime', 'Drama']",0,0,0.0
+Prisoners of the Ghostland,8/31/2021,"['Action', 'Horror', 'Science Fiction', 'Thriller']",0,103,5.5
+Tales From Cascadia,11/9/2021,[],0,0,0.0
+Camp Confidential: America's Secret Nazis,9/24/2021,"['Documentary', 'Animation', 'History']",0,34,6.5
+A StoryBots Space Adventure,11/9/2021,"['Animation', 'Family']",0,12,0.0
+Blue Miracle,5/27/2021,"['Adventure', 'Drama', 'Family']",0,95,7.6
+Blood Moon,3/26/2021,"['Fantasy', 'Horror', 'TV Movie']",0,82,6.2
+"¡Dolores, guapa!",11/8/2021,['Documentary'],,,0.0
+Flag Day,8/20/2021,"['Drama', 'Thriller']",0,108,5.8
+Sábado no mato,11/9/2021,[],0,0,0.0
+Debbie Macomber's A Mrs. Miracle Christmas,11/6/2021,"['TV Movie', 'Drama', 'Romance']",0,84,2.0
+Yuujou: The Friendship Experiment,11/8/2021,['Documentary'],0,68,0.0
+"Strip Down, Rise Up",2/5/2021,['Documentary'],0,112,7.3
+Untold: Crimes & Penalties,8/31/2021,"['Documentary', 'Crime']",0,85,6.8
+"Summer of Soul (...or, When the Revolution Could Not Be Televised)",7/2/2021,"['Documentary', 'Music']",0,117,7.8
+L'ultimo paradiso,2/5/2021,"['Drama', 'Romance']",0,107,5.9
+Prime Time,1/30/2021,"['Drama', 'Thriller']",0,93,5.0
+Carla - il film,11/8/2021,['History'],0,0,0.0
+Deadly Illusions,3/18/2021,"['Drama', 'Thriller']",0,114,5.1
+Planet Dune,10/29/2021,"['Horror', 'Adventure', 'Science Fiction']",0,0,2.0
+द गर्ल ऑन द ट्रेन,2/26/2021,"['Drama', 'Thriller']",0,128,5.8
+मीनाक्षी सुंदरेश्‍वर,11/5/2021,"['Romance', 'Comedy']",0,141,5.0
+Worth,7/21/2021,"['Drama', 'History']",0,118,6.9
+Belfast,11/11/2021,['Drama'],0,97,0.0
+Premium Pornography,11/8/2021,['Comedy'],0,12,0.0
+Being James Bond,9/7/2021,['Documentary'],0,46,7.9
+Alan Saldaña: encarcelado,6/3/2021,['Comedy'],0,49,6.0
+Juan Luis Guerra 4.40: Entre Mar y Palmeras,6/3/2021,['Music'],0,70,8.3
+The Right One,2/5/2021,"['Comedy', 'Romance']",0,96,6.8
+El Chapo and the Curse of the Pirate Zombies,12/31/2021,[],0,0,0.0
+The White Tiger,1/13/2021,['Drama'],0,125,7.0
+劇場版 七つの大罪 光に呪われし者たち,7/2/2021,['Animation'],0,0,6.0
+Out of Death,7/16/2021,"['Crime', 'Adventure', 'Thriller']",0,95,6.4
+Blood Brothers: Malcolm X and Muhammad Ali,9/9/2021,"['Documentary', 'History']",0,95,7.6
+Take Me,11/9/2021,[],0,3,0.0
+Présidents,6/30/2021,['Comedy'],0,108,5.5
+Gingerbread Miracle,11/5/2021,"['TV Movie', 'Comedy', 'Drama', 'Romance']",0,84,5.3
+Good on Paper,6/23/2021,"['Comedy', 'Drama', 'Mystery', 'Romance', 'Thriller']",0,92,5.7
+Lantern's Lane,11/5/2021,['Horror'],0,95,5.0
+Monster Family 2,10/28/2021,"['Animation', 'Adventure', 'Family', 'Fantasy', 'Science Fiction']",0,90,6.4
+This Little Love of Mine,4/22/2021,"['Romance', 'Comedy']",0,91,6.5
+Кощей. Начало,10/28/2021,"['Animation', 'Adventure', 'Family']",0,100,7.0
+Escape from Death Block 13,11/2/2021,['Action'],0,104,4.7
+Music,1/14/2021,"['Music', 'Drama']",0,107,5.8
+Eiffel,10/7/2021,"['Drama', 'History']",0,108,6.4
+Four Seasons Total Documentary,11/7/2021,['Documentary'],0,0,6.0
+君は永遠にそいつらより若い,9/17/2021,['Drama'],0,118,0.0
+Haute couture,11/10/2021,['Drama'],0,100,0.0
+Freaks Out,10/28/2021,"['Adventure', 'Action', 'Science Fiction', 'Drama']",0,141,7.7
+Ciao Alberto,11/12/2021,"['Animation', 'Comedy', 'Family', 'Fantasy']",0,7,0.0
+A Man Named Scott,11/5/2021,"['Documentary', 'Music']",0,95,6.3
+Settlers,7/23/2021,"['Science Fiction', 'Thriller']",0,104,5.1
+Soy Luna: El último concierto,2/26/2021,"['Music', 'Documentary']",,,8.0
+Uploaded,3/9/2021,['Thriller'],0,0,3.0
+Dark Web: Cicada 3301,3/12/2021,"['Thriller', 'Action', 'Comedy']",0,104,6.4
+Resident Evil - Code Kennedy,5/7/2021,"['Comedy', 'Horror']",0,15,6.5
+Post Mortem,10/28/2021,"['Horror', 'Mystery', 'Thriller']",0,115,3.8
+Sacrifice,2/9/2021,['Horror'],0,87,5.2
+For the Sake of Vicious,4/16/2021,"['Action', 'Horror', 'Mystery']",0,80,6.9
+All About Sex,9/16/2021,"['Comedy', 'Drama', 'Romance']",0,75,9.0
+A Princesa da Yakuza,8/26/2021,"['Action', 'Crime', 'Thriller']",0,112,6.5
+The Power of the Dog,11/17/2021,"['Western', 'Romance', 'Drama']",0,126,0.0
+Happiness Ever After,11/10/2021,"['Romance', 'Drama']",,,0.0
+Miłość do kwadratu,2/11/2021,"['Comedy', 'Romance']",0,102,6.2
+Flashback,11/11/2021,['Comedy'],0,0,0.0
+The Manor,10/8/2021,['Horror'],0,81,5.6
+Queen Bees,6/11/2021,"['Romance', 'Comedy']",0,101,6.2
+Let's Be Tigers,5/28/2021,['Drama'],0,15,7.3
+The Birthday Cake,6/18/2021,"['Crime', 'Thriller']",0,93,6.1
+Skater Girl,6/11/2021,['Drama'],0,107,7.6
+Jag är Zlatan,11/11/2021,['Drama'],0,100,0.0
+ஜெய் பீம்,11/2/2021,['Drama'],0,164,7.7
+Ряд 19,11/11/2021,['Horror'],0,77,0.0
+Every Breath You Take,4/2/2021,['Thriller'],0,105,6.0
+Madame Claude,4/2/2021,"['Crime', 'Drama', 'Romance']",0,112,5.8
+Highway to Heaven,11/6/2021,"['TV Movie', 'Drama']",0,88,2.0
+Misha and the Wolves,9/3/2021,['Documentary'],0,90,7.5
+Ida Red,11/5/2021,"['Crime', 'Thriller', 'Drama', 'Action']",0,111,3.5
+Boogie,3/5/2021,"['Drama', 'Comedy']",0,89,6.1
+5ème Set,6/16/2021,['Drama'],0,113,6.7
+Joe Bell,7/23/2021,"['Drama', 'Adventure']",0,93,6.2
+The Housemaid,9/10/2021,['Thriller'],0,114,5.2
+Under the Volcano,3/20/2021,"['Documentary', 'Music']",0,96,6.5
+Le cheval oublié,11/10/2021,['Documentary'],0,0,0.0
+Legacy of Love,11/11/2021,['Romance'],,,0.0
+Snakehead,10/29/2021,"['Action', 'Drama', 'Crime']",0,89,6.1
+"Yo nena, yo princesa",10/28/2021,['Drama'],0,0,2.0
+High Flying Romance,5/17/2021,"['Romance', 'Drama']",0,84,7.3
+Madres paralelas,10/8/2021,['Drama'],0,120,7.1
+Son,2/26/2021,"['Horror', 'Thriller']",0,98,6.4
+"Odio, de Dani Rovira",2/12/2021,['Comedy'],0,82,7.3
+The Healing Garden,2/22/2021,['Family'],0,95,4.7
+The Wrong Fiancé,1/8/2021,['Drama'],0,85,5.3
+Zeros and Ones,11/18/2021,"['Thriller', 'War', 'Science Fiction']",0,85,0.0
+Антон і червона химера,2/12/2021,"['Drama', 'History']",0,102,3.5
+Billie Eilish: The World's a Little Blurry,2/26/2021,"['Documentary', 'Music']",0,140,8.7
+Venom Coast,3/27/2021,"['Horror', 'Thriller']",0,93,3.0
+Da Vergonha ao Orgulho,11/10/2021,[],0,0,0.0
+Black Friday,11/19/2021,"['Horror', 'Comedy']",0,84,0.0
+Marvel's Behind the Mask,2/12/2021,['Documentary'],0,64,7.7
+हसीन दिलरुबा,7/2/2021,"['Mystery', 'Crime', 'Thriller', 'Romance']",0,136,6.3
+차인표,1/1/2021,['Comedy'],0,102,6.9
+अनकही कहानियाँ,9/17/2021,"['Drama', 'Romance']",0,110,6.1
+Licorice Pizza,11/26/2021,"['Drama', 'Comedy']",0,133,0.0
+Partir?,11/10/2021,['Documentary'],0,77,0.0
+Forerunner,11/10/2021,[],0,18,0.0
+Long Time No See,11/10/2021,['Drama'],0,74,0.0
+The Great Christmas Switch,11/6/2021,"['TV Movie', 'Drama', 'Romance']",0,84,2.0
+Поцілунок на мільйон,2/14/2021,"['Comedy', 'Adventure']",0,84,0.0
+Marcher sur l'eau,11/10/2021,['Documentary'],0,90,0.0
+Naked Singularity,8/6/2021,"['Crime', 'Drama']",0,94,5.4
+ドライブ・マイ・カー,8/18/2021,['Drama'],0,179,7.3
+El ascensor,1/15/2021,"['Science Fiction', 'Romance', 'Comedy']",0,70,6.0
+Kidnapped,3/18/2021,"['Thriller', 'Drama']",0,85,6.3
+Swan Song,12/17/2021,"['Drama', 'Science Fiction']",0,0,0.0
+Paranoia,11/11/2021,"['Drama', 'Thriller']",0,102,0.0
+Pray Away,6/16/2021,['Documentary'],,,7.1
+Babardeala cu bucluc sau porno balamuc,4/16/2021,"['Comedy', 'Drama']",0,106,6.7
+"Ben 10: Ben 10,010",4/2/2021,"['Animation', 'Action']",0,0,6.4
+O nascimento de Helena,11/10/2021,[],0,11,0.0
+Romeo Santos: Utopia Live from MetLife Stadium,6/25/2021,"['Music', 'Romance']",0,103,8.2
+Héroes: silencio y rock & roll,4/23/2021,"['Documentary', 'Music']",0,95,8.7
+Acerca del Tiempo,12/31/2021,[],0,0,0.0
+The United States vs. Billie Holiday,3/31/2021,"['Music', 'Drama', 'History']",0,131,6.8
+Death Saved My Life,2/13/2021,"['Thriller', 'TV Movie']",0,87,7.5
+The Wedding Trip,10/18/2021,['Romance'],0,99,4.0
+Shots for Monday Morning,11/10/2021,['Documentary'],0,8,0.0
+El Amarre,10/21/2021,['Horror'],0,77,2.5
+Born a Champion,1/22/2021,"['Action', 'Drama']",0,111,7.2
+OSS 117 : Alerte rouge en Afrique noire,8/4/2021,"['Adventure', 'Comedy', 'Action']",0,117,5.9
+Penunggang Agama 2,10/19/2021,[],0,78,0.0
+Cold Return,11/7/2021,[],0,96,2.0
+Artemisia,11/10/2021,[],0,4,0.0
+I Like Tomorrow,11/10/2021,[],0,12,0.0
+重启地球,9/3/2021,"['Drama', 'Science Fiction']",,,8.0
+Foxglove,11/10/2021,['Drama'],0,14,0.0
+El caso Wanninkhof - Carabantes,6/23/2021,"['Documentary', 'Crime', 'History', 'Mystery']",0,88,6.5
+The Accursed,11/12/2021,['Horror'],0,0,0.0
+Soy Rada: Serendipia,5/27/2021,['Comedy'],0,70,4.5
+A Cup of Sugar,11/10/2021,['Drama'],0,19,0.0
+Secret Santa: A Christmas Adventure,11/11/2021,"['Comedy', 'Adventure', 'Drama']",0,82,0.0
+Shiny_Flakes: The Teenage Drug Lord,8/3/2021,"['Documentary', 'Crime']",0,96,7.8
+Talponi,11/10/2021,['Comedy'],0,15,0.0
+Tides,8/26/2021,['Science Fiction'],0,104,5.7
+TINA,3/2/2021,"['Documentary', 'Music']",0,118,7.7
+COVID-21: Lethal Virus,1/1/2021,"['Science Fiction', 'Thriller', 'Horror']",0,87,5.6
+Outlier,11/2/2021,"['Horror', 'Thriller', 'Science Fiction', 'Drama']",0,81,6.0
+Descendants: The Royal Wedding,8/13/2021,"['TV Movie', 'Animation', 'Comedy', 'Family', 'Drama']",,0,8.0
+Things Heard & Seen,4/29/2021,"['Horror', 'Mystery', 'Drama', 'Thriller']",0,121,5.8
+"Joào de Deus, ombre et lumière",11/10/2021,['Documentary'],0,0,0.0
+Survive the Game,10/8/2021,"['Action', 'Thriller', 'Crime']",0,97,6.2
+Love Longing Loss: At Home with Charles Lloyd During Isolation,11/10/2021,[],0,60,0.0
+In Mezzo Alle Terre,11/9/2021,[],0,0,0.0
+Tic Tac,11/9/2021,[],0,88,0.0
+Ben 10 Alien X-tinction,4/11/2021,[],0,0,5.0
+名探偵コナン 緋色の弾丸,4/16/2021,"['Animation', 'Action', 'Crime', 'Romance', 'Thriller', 'Mystery']",0,0,7.1
+Family Tree,11/10/2021,[],0,0,0.0
+Paper & Glue,11/12/2021,['Documentary'],0,94,0.0
+The Simpsons in Plusaversary,11/12/2021,"['Animation', 'Comedy']",0,0,0.0
+Boîte noire,9/8/2021,"['Drama', 'Thriller']",0,129,7.8
+As Easy as Riding a Bike,11/10/2021,['Comedy'],0,16,0.0
+Every Last One of Them,10/22/2021,"['Action', 'Thriller']",0,82,5.1
+There in Spirit,11/10/2021,[],0,5,0.0
+Procession,11/12/2021,['Documentary'],0,118,0.0
+Winter Flare,11/10/2021,[],0,4,0.0
+Pai em Dobro,1/15/2021,"['Comedy', 'Drama', 'Family']",0,103,6.8
+Moon Girl Moon!,11/10/2021,"['Science Fiction', 'Drama']",0,9,0.0
+The Survivalist,12/2/2021,"['Action', 'Thriller']",0,91,0.0
+"Mark, Mary + Some Other People",11/5/2021,"['Comedy', 'Drama', 'Romance']",0,89,4.5
+Marvel Studios' 2021 Disney+ Day Special,11/12/2021,['Documentary'],0,0,0.0
+Pleasure,10/8/2021,['Drama'],0,105,6.3
+Queenpins,8/26/2021,"['Comedy', 'Crime']",0,110,7.0
+A Stalker in the House,11/6/2021,['Thriller'],0,0,2.0
+Sisters on Track,6/10/2021,['Documentary'],0,96,7.5
+Echoes of the Past,11/11/2021,['Drama'],0,0,8.0
+Untold: Malice at the Palace,8/10/2021,"['Documentary', 'Crime']",0,69,7.3
+"Quo Vadis, Aida?",2/26/2021,"['Drama', 'War']",0,101,7.6
+In the Earth,4/16/2021,"['Horror', 'Science Fiction', 'Thriller']",0,107,5.4
+Risen,8/20/2021,"['Science Fiction', 'Drama', 'Thriller']",0,109,5.6
+Les Olympiades,11/3/2021,"['Drama', 'Romance']",0,106,7.4
+Growing Fangs,5/28/2021,['Drama'],0,19,6.8
+La Bruja y el Demonio,12/31/2021,[],0,0,0.0
+P!NK: All I Know So Far,5/21/2021,"['Documentary', 'Music']",0,99,8.1
+Firebird,3/17/2021,"['Drama', 'Romance', 'War']",0,107,8.3
+Arsène Wenger: Invincible,11/11/2021,['Documentary'],0,95,0.0
+Extinct,2/11/2021,"['Animation', 'Comedy', 'Science Fiction', 'Family']",0,85,6.1
+The Legend of the Underground,6/10/2021,['Documentary'],0,86,5.5
+"La Nouvelle Vague, une lame de fond",11/7/2021,"['Documentary', 'TV Movie']",0,52,2.0
+"Crack: Cocaine, Corruption & Conspiracy",1/11/2021,['Documentary'],0,89,7.1
+Oslo,5/29/2021,"['TV Movie', 'Drama', 'History']",0,118,6.7
+Charles,11/1/2021,['Horror'],0,0,2.0
+The Map of Tiny Perfect Things,2/12/2021,"['Fantasy', 'Romance']",0,99,7.2
+AEW Full Gear 2021,11/13/2021,['Action'],0,0,2.0
+Друг на продажу,11/11/2021,['Comedy'],,,0.0
+French Exit,2/12/2021,"['Comedy', 'Drama']",0,113,5.9
+Needle in a Timestack,10/15/2021,"['Science Fiction', 'Romance']",0,111,5.4
+媽媽的神奇小子,8/12/2021,['Drama'],0,102,7.0
+Соври мне правду,9/9/2021,"['Drama', 'Thriller']",0,90,5.2
+Per tutta la vita,11/11/2021,['Comedy'],0,101,0.0
+白天总是太过漫长,11/12/2021,"['Drama', 'Fantasy']",0,102,0.0
+The Souvenir Part II,10/29/2021,['Drama'],0,106,4.0
+Adventures of Rufus: The Fantastic Pet,4/22/2021,"['Family', 'Adventure', 'Fantasy']",0,82,4.5
+Assassins,8/12/2021,['Documentary'],0,104,6.3
+Tierra eterna,10/29/2021,['Drama'],0,7,0.0
+The War Below,9/10/2021,"['War', 'Drama', 'History']",0,97,6.9
+Un Cumpleaños Muy Kally,7/30/2021,"['Music', 'Family', 'TV Movie', 'Romance']",0,100,7.9
+Il Divin Codino,5/26/2021,['Drama'],0,91,6.5
+Tundra,11/7/2021,"['Fantasy', 'Drama', 'Horror', 'Mystery', 'Romance', 'Science Fiction']",0,30,0.0
+Don't Look Up,12/10/2021,"['Comedy', 'Drama', 'Science Fiction']",0,145,0.0
+Bram Stoker's Van Helsing,3/29/2021,['Horror'],0,86,6.0
+Open by Christmas,11/12/2021,"['TV Movie', 'Comedy', 'Romance']",0,84,0.0
+Lioness: The Nicola Adams Story,11/12/2021,['Documentary'],0,0,0.0
+Doors,3/23/2021,['Science Fiction'],0,84,5.0
+COVID-19: Invasion,10/31/2021,"['Thriller', 'Action']",0,0,0.0
+Llámenme Puta,11/11/2021,[],0,11,0.0
+ARCANE,4/19/2021,[],0,7,0.0
+Ride or Die,2/9/2021,"['Crime', 'Drama', 'Romance']",,0,5.7
+Pitbull,11/11/2021,"['Action', 'Crime', 'Drama']",0,0,0.0
+7 Prisioneiros,11/11/2021,"['Drama', 'Crime']",0,93,0.0
+Přání Ježíškovi,11/11/2021,"['Romance', 'Comedy']",0,0,0.0
+My Christmas Family Tree,11/13/2021,"['TV Movie', 'Comedy', 'Romance']",0,84,0.0
+Jungle Run,6/24/2021,"['Adventure', 'Action']",0,86,6.6
+Christmas in My Heart,10/23/2021,"['TV Movie', 'Drama', 'Romance']",0,84,5.3
+The Lost Girls,12/25/2021,"['Drama', 'Fantasy']",0,100,0.0
+Virgen de San Juan,1/1/2021,['Drama'],0,0,7.8
+Juice WRLD: Into the Abyss,11/12/2021,"['Documentary', 'Music']",0,115,0.0
+13 Fanboy,10/22/2021,['Horror'],0,99,5.9
+악인은 너무 많다 2: 제주 실종사건의 전말,11/11/2021,['Thriller'],0,0,0.0
+Budiž voda,11/11/2021,['Documentary'],0,0,0.0
+Pups Alone,11/19/2021,"['Comedy', 'Family']",0,107,0.0
+19-Mar,11/11/2021,['Drama'],0,120,0.0
+Breaking Boundaries: The Science of Our Planet,6/4/2021,['Documentary'],0,73,7.2
+Crazy Tsunami,7/16/2021,['Drama'],0,78,4.5
+幾多の北,11/6/2021,['Animation'],0,64,2.0
+South Park: Post COVID,11/25/2021,"['Animation', 'Comedy']",0,0,0.0
+Windstill,11/11/2021,['Drama'],0,115,0.0
+West Side Story,12/8/2021,"['Drama', 'Romance', 'Crime']",0,156,0.0
+Sola,11/4/2021,['Drama'],0,0,0.0
+An Autumn Romance,5/7/2021,"['Romance', 'Drama']",0,88,8.1
+Pintu Surga Terakhir,11/11/2021,"['Drama', 'Comedy', 'Family', 'Romance']",0,0,0.0
+Nothing to Hide,11/11/2021,[],0,15,0.0
+Audible,4/29/2021,['Documentary'],0,39,6.3
+This Day’s Madness did prepare Tomorrow’s Silence,11/11/2021,[],0,77,0.0
+South of Heaven,10/8/2021,"['Crime', 'Thriller', 'Drama']",0,120,6.1
+Night at the Eagle Inn,10/8/2021,"['Horror', 'Mystery']",0,70,5.0
+Perinbaba a dva svety,11/11/2021,"['Family', 'Fantasy']",0,0,0.0
+劇場版 抱かれたい男1位に脅されています。～スペイン編～,10/9/2021,"['Animation', 'Drama', 'Comedy']",0,0,1.3
+Night of the Animated Dead,9/21/2021,"['Animation', 'Horror']",0,70,6.7
+In the Same Breath,1/28/2021,['Documentary'],0,98,6.8
+The Devil Below,3/5/2021,"['Horror', 'Thriller']",0,89,5.3
+La Civil,7/8/2021,['Drama'],0,140,4.3
+Gaia,6/18/2021,"['Horror', 'Fantasy', 'Drama']",0,97,5.9
+Why Did You Kill Me?,4/14/2021,"['Documentary', 'Crime']",0,83,6.4
+One December Night,11/13/2021,"['TV Movie', 'Comedy', 'Romance', 'Family']",0,84,0.0
+Aida Rodriguez: Fighting Words,11/4/2021,['Comedy'],0,63,0.0
+Mayor Pete,11/12/2021,['Documentary'],0,96,0.0
+Sex: Unzipped,10/26/2021,['Comedy'],0,59,2.7
+Go to Kill,11/11/2021,"['Comedy', 'Drama']",0,95,0.0
+Finding the Werewolf,12/31/2021,[],0,90,0.0
+Revealed: The Hunt for Bin Laden,5/2/2021,['Documentary'],0,86,2.0
+Adrienne,11/14/2021,[],0,98,0.0
+Mr. Saturday Night,11/13/2021,"['Documentary', 'Music']",0,83,0.0
+Ted Bundy: American Boogeyman,8/16/2021,"['Thriller', 'Crime']",0,110,5.9
+Sagan om Karl-Bertil Jonssons julafton,11/12/2021,[],0,0,0.0
+IJswee,11/11/2021,['Documentary'],0,65,0.0
+เกมล่าฆ่ารอด,11/11/2021,['Thriller'],0,107,0.0
+La chica nueva,3/19/2021,['Drama'],0,80,6.7
+Under the Helmet: The Legacy of Boba Fett,11/12/2021,['Documentary'],0,0,0.0
+The Princess Switch 3: Romancing the Star,11/18/2021,"['Romance', 'Comedy']",0,106,0.0
+Kevin Garnett: Anything is Possible,11/12/2021,['Documentary'],0,120,0.0
+Perempuan Bergaun Merah,11/11/2021,['Horror'],0,0,0.0
+A Boy Called Christmas,11/25/2021,"['Family', 'Fantasy']",0,106,0.0
+14 Peaks: Nothing Is Impossible,11/12/2021,['Documentary'],0,99,0.0
+Pražský výběr – Symphony Bizarre,11/11/2021,['Music'],0,0,0.0
+Mad God,8/5/2021,"['Animation', 'Fantasy', 'Horror', 'Science Fiction']",0,83,6.8
+Singing in Oblivion,11/11/2021,[],,,0.0
+Never Back Down: Revolt,11/16/2021,"['Drama', 'Action']",0,90,0.0
+Una escuela en Cerro Hueso,3/1/2021,['Drama'],0,70,4.0
+왕십리 김종분,11/11/2021,['Documentary'],0,102,0.0
+The Last Cruise,3/16/2021,['Documentary'],0,40,6.6
+梅艷芳,11/12/2021,['Romance'],0,136,0.0
+The Humans,11/24/2021,['Drama'],0,108,0.0
+Squad,11/12/2021,[],0,0,0.0
+The Spine of Night,10/29/2021,"['Animation', 'Fantasy', 'Action']",0,93,6.4
+Framing Britney Spears,2/5/2021,"['Documentary', 'Music']",0,74,7.3
+Megalodon!: Great White Godfather,10/19/2021,['Documentary'],0,66,0.0
+Mothering Sunday,11/12/2021,"['Drama', 'Romance']",0,110,0.0
+Dangerous Medicine,3/5/2021,"['Thriller', 'TV Movie']",0,0,7.2
+Creating The Queen's Gambit,1/10/2021,"['Documentary', 'TV Movie']",0,14,7.9
+Montford: The Chickasaw Rancher,11/1/2021,"['Western', 'Drama']",0,96,0.0
+אסיה,4/1/2021,['Drama'],0,85,4.9
+Tre nøtter til Askepott,11/12/2021,"['Family', 'Fantasy']",0,95,0.0
+Anonymous,11/6/2021,['Drama'],0,96,0.0
+A Picture Perfect Holiday,11/13/2021,"['TV Movie', 'Comedy', 'Romance', 'Family']",0,0,0.0
+Chiatura,11/11/2021,[],0,16,0.0
+Blodughadda,11/11/2021,[],0,0,0.0
+Bruised,11/17/2021,['Drama'],0,132,0.0
+Gabriel's Rapture,12/31/2021,['Romance'],0,106,0.0
+Everybody's Talking About Jamie,9/10/2021,"['Drama', 'Comedy']",,,6.6
+Harland Manor,10/29/2021,['Horror'],0,0,4.0
+കുറുപ്പ്,11/12/2021,"['Thriller', 'Crime']",0,156,0.0
+Past Continuous,11/11/2021,[],0,30,0.0
+Жыве Беларусь,11/11/2021,['Animation'],0,8,0.0
+Britney vs. Spears,9/27/2021,['Documentary'],0,93,7.2
+Our Ladies,6/18/2021,"['Comedy', 'Drama']",0,100,7.4
+If a Tree Falls in a Forest,11/11/2021,"['Documentary', 'Fantasy']",0,15,0.0
+Amélie,11/11/2021,[],0,11,0.0
+Cuernos rosas,11/11/2021,[],0,10,0.0
+The Killing of Two Lovers,2/23/2021,['Drama'],0,84,6.7
+Story City,11/11/2021,[],0,6,0.0
+Coyote Creek Christmas,10/30/2021,"['TV Movie', 'Comedy', 'Romance']",,0,6.7
+Loud Whisper,11/11/2021,[],0,20,0.0
+Mlukhiye,11/11/2021,[],0,15,0.0
+Hollows and Ducts,11/11/2021,[],0,15,0.0
+Hyperland,11/8/2021,['Science Fiction'],,,0.0
+Single Mother by Choice,11/2/2021,"['Comedy', 'Drama']",0,82,6.8
+The Kalahari: The Flooded Desert,11/9/2021,['Documentary'],0,52,0.0
+Cuidado con lo que deseas,11/12/2021,[],0,0,0.0
+Descending the Mountain,11/11/2021,['Documentary'],0,0,0.0
+Trimming the Fat,11/10/2021,[],0,0,0.0
+Menstruar,11/11/2021,[],0,0,0.0
+The Most Reluctant Convert: The Untold Story of C.S. Lewis,11/7/2021,"['Drama', 'History']",0,87,0.0
+Ben Gen 10,4/10/2021,[],0,171,5.5
+C'mon C'mon,11/19/2021,['Drama'],0,108,0.0
+Les fantasmes,11/5/2021,"['Comedy', 'Romance']",0,102,2.0
+Seaspiracy,3/24/2021,['Documentary'],0,89,8.0
+Barbaque,9/10/2021,['Comedy'],0,87,7.1
+Ternet Ninja 2,8/19/2021,"['Animation', 'Comedy']",0,0,6.1
+Die in a Gunfight,7/1/2021,"['Action', 'Drama', 'Romance', 'Comedy', 'Crime']",0,92,5.3
+Проклятый чиновник,6/24/2021,['Comedy'],0,0,4.7
+Verdens verste menneske,10/13/2021,"['Comedy', 'Romance', 'Drama']",0,127,7.1
+Les Animaux Anonymes,9/29/2021,"['Fantasy', 'Thriller']",0,64,4.5
+Warrior Spirit,11/12/2021,['Documentary'],0,95,0.0
+Tempo,11/24/2021,[],0,0,0.0
+The House of Gaunt: Lord Voldemort Origins,9/15/2021,['Fantasy'],0,0,9.0
+Multiverse,11/12/2021,"['Drama', 'Science Fiction']",0,93,0.0
+DMX: Don't Try to Understand,11/13/2021,"['Documentary', 'Music']",0,79,0.0
+Hockeyland,11/12/2021,['Documentary'],0,109,0.0
+BUTTERSCOTCH.,11/11/2021,['Mystery'],0,6,0.0
+Tan Poush,11/11/2021,[],0,13,0.0
+Shang Shan,6/11/2021,[],0,0,0.0
+Runt,10/1/2021,['Drama'],0,95,5.5
+No consigo olvidarte,11/11/2021,[],0,5,0.0
+Kinaara,11/11/2021,[],0,5,0.0
+Dave Chappelle: The Closer,10/5/2021,['Comedy'],0,72,7.4
+Attica,9/9/2021,['Documentary'],0,120,8.0
+Abstract Eternalism,8/5/2021,[],0,0,0.0
+Si on chantait,11/3/2021,['Music'],0,96,7.1
+Superhost,8/14/2021,"['Thriller', 'Horror']",0,83,6.0
+Weihnachten mit Jonas Kaufmann,11/11/2021,[],0,0,0.0
+Looking for Barbara,11/11/2021,[],0,8,0.0
+9/11: Inside the President's War Room,8/31/2021,"['Documentary', 'History']",0,89,6.9
+Bigfoot Famous,11/2/2021,"['Comedy', 'Adventure']",0,89,4.8
+The Trick,10/18/2021,['Thriller'],0,90,4.0
+Лётчик,11/4/2021,"['War', 'Drama', 'History']",0,107,2.0
+Honey Girls,10/19/2021,"['Music', 'Family']",0,90,4.3
+Operation Varsity Blues: The College Admissions Scandal,3/17/2021,"['Documentary', 'Crime', 'Drama']",0,100,7.1
+Koati,8/5/2021,"['Music', 'Animation']",0,85,3.5
+UFC 268: Usman vs. Covington 2,11/6/2021,['Action'],,,2.0
